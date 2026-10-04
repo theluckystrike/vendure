@@ -2822,7 +2822,7 @@ msgstr "Verzendkosten herberekenen"
 
 #: src/lib/components/shared/asset/asset-gallery.tsx
 msgid "{totalItems, plural, one {# asset found} other {# assets found}}"
-msgstr "{totalItems, plural, one {# asset gevonden} other {# assets gevonden}}"
+msgstr "{totalItems, plural, one {# bestand gevonden} other {# bestanden gevonden}}"
 
 #: src/app/routes/_authenticated/_assets/assets_.$id.tsx
 #: src/app/routes/_authenticated/_assets/assets.tsx

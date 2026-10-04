@@ -2828,7 +2828,7 @@ msgstr "محاسبه مجدد هزینه ارسال"
 
 #: src/lib/components/shared/asset/asset-gallery.tsx
 msgid "{totalItems, plural, one {# asset found} other {# assets found}}"
-msgstr "{totalItems, plural, one {# دارایی یافت شد} other {# دارایی یافت شد}}"
+msgstr "{totalItems, plural, one {# فایل یافت شد} other {# فایل یافت شد}}"
 
 #: src/app/routes/_authenticated/_assets/assets_.$id.tsx
 #: src/app/routes/_authenticated/_assets/assets.tsx

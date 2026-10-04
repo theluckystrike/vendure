@@ -2828,7 +2828,7 @@ msgstr "إعادة حساب الشحن"
 
 #: src/lib/components/shared/asset/asset-gallery.tsx
 msgid "{totalItems, plural, one {# asset found} other {# assets found}}"
-msgstr "{totalItems, plural, zero {لم يتم العثور على أي أصول} one {تم العثور على أصل واحد} two {تم العثور على أصلين} few {تم العثور على # أصول} other {تم العثور على # أصل}}"
+msgstr "{totalItems, plural, zero {لم يتم العثور على أي ملفات} one {تم العثور على ملف واحد} two {تم العثور على ملفين} few {تم العثور على # ملفات} other {تم العثور على # ملف}}"
 
 #: src/app/routes/_authenticated/_assets/assets_.$id.tsx
 #: src/app/routes/_authenticated/_assets/assets.tsx

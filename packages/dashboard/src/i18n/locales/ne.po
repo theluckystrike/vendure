@@ -2828,7 +2828,7 @@ msgstr "ढुवानी पुन: गणना गर्नुहोस्"
 
 #: src/lib/components/shared/asset/asset-gallery.tsx
 msgid "{totalItems, plural, one {# asset found} other {# assets found}}"
-msgstr "{totalItems, plural, one {# एसेट भेटियो} other {# एसेटहरू भेटिए}}"
+msgstr "{totalItems, plural, one {# सम्पत्ति भेटियो} other {# सम्पत्तिहरू भेटिए}}"
 
 #: src/app/routes/_authenticated/_assets/assets_.$id.tsx
 #: src/app/routes/_authenticated/_assets/assets.tsx

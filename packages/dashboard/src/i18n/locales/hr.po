@@ -1879,7 +1879,7 @@ msgstr "Povrat uspješno izvršen"
 #. placeholder {0}: collectionsToMove.length
 #: src/app/routes/_authenticated/_collections/components/move-collections-dialog.tsx
 msgid "{0, plural, =1 {Select a target collection to move this collection to.} other {Select a target collection to move # collections to.}}"
-msgstr "{0, plural, =1 {Odaberite ciljnu kolekciju za premještanje ove kolekcije.} other {Odaberite ciljnu kolekciju za premještanje # kolekcija.}}"
+msgstr "{0, plural, =1 {Odaberite ciljnu kolekciju za premještanje ove kolekcije.} one {Odaberite ciljnu kolekciju za premještanje # kolekcije.} few {Odaberite ciljnu kolekciju za premještanje # kolekcije.} other {Odaberite ciljnu kolekciju za premještanje # kolekcija.}}"
 
 #: src/app/routes/_authenticated/_administrators/administrators_.$id.tsx
 #: src/app/routes/_authenticated/_api-keys/api-keys_.$id.tsx
@@ -2828,7 +2828,7 @@ msgstr "Preračunaj dostavu"
 
 #: src/lib/components/shared/asset/asset-gallery.tsx
 msgid "{totalItems, plural, one {# asset found} other {# assets found}}"
-msgstr "{totalItems, plural, one {Pronađen # resurs} few {Pronađena # resursa} other {Pronađeno # resursa}}"
+msgstr "{totalItems, plural, one {Pronađena # datoteka} few {Pronađene # datoteke} other {Pronađeno # datoteka}}"
 
 #: src/app/routes/_authenticated/_assets/assets_.$id.tsx
 #: src/app/routes/_authenticated/_assets/assets.tsx
@@ -6313,7 +6313,7 @@ msgstr "Upravljaj varijantama"
 #. placeholder {0}: collectionsToMove.length
 #: src/app/routes/_authenticated/_collections/components/move-collections-dialog.tsx
 msgid "{0, plural, one {Moving # collection into {destination}} other {Moving # collections into {destination}}}"
-msgstr "{0, plural, one {Premještanje # kolekcije u: {destination}} other {Premještanje # kolekcija u: {destination}}}"
+msgstr "{0, plural, one {Premještanje # kolekcije u: {destination}} few {Premještanje # kolekcije u: {destination}} other {Premještanje # kolekcija u: {destination}}}"
 
 #: src/lib/components/data-table/views-sheet.tsx
 msgid "Applied global view \"{viewName}\""
